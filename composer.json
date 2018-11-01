@@ -3,7 +3,8 @@
 	"description": "A Slim Framework skeleton application for API development",
 	"keywords": ["microframework", "rest", "router", "psr7", "api"],
 	"homepage": "http://github.com/sunaryohadi/slim-api-skeleton",
-	"license": "MIT",
+	"version": "1.0.0-dev", 
+	"license": "BSD-3-Clause",
 	"authors": [
 		{
 			"name": "Sunaryo Hadi",
