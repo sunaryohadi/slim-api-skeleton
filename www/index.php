@@ -22,7 +22,7 @@ require __DIR__ . '/../private/src/dependencies.php';
 require __DIR__ . '/../private/src/middleware.php';
 
 // Register routes
-require __DIR__ . '/../private/routes/root.php';
+require __DIR__ . '/../private/src/routes.php';
 
 // Run app
 $app->run();
