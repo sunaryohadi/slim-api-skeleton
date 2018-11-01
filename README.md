@@ -15,7 +15,7 @@ Also theres same component, which is mostly required.
 ### Run it:
 
 1. `$ cd my-app`
-2. `composer start`
+2. `$ composer start`
 3. Browse to http://localhost:8080
 
 ## Key directories
